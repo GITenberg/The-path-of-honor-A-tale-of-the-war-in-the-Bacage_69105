@@ -13,6 +13,9 @@ contributor:
   - agent_name: Rush, Olive
     gutenberg_agent_id: '55105'
     url: http://www.gutenberg.org/2009/agents/55105
+covers:
+- cover_type: archival
+  image_path: 69105-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Burton Egbert
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69105#The-path-of-honor-A-tale-of-the-war-in-the-Bacage
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69105'
